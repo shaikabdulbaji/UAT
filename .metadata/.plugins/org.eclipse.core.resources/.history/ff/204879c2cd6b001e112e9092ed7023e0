@@ -1,0 +1,24 @@
+package a2UAT_best_practices_and_process_involved_in_agile_projects;
+
+public class sample {
+	
+	/*
+	 UAT best practices and process involved in agile projects
+	 1. Identifying the user this is 1st thing we do as part of UAT.
+	 2. Once the users are identified then we do "Test preparation/designs".
+	 	1. Test planning.
+	 	2. Requirements understanding/clarification.
+	 	3. Develop test cases/scenarios.
+	 3. Once Test pre/design is done then we will do "Env preparation".
+	 	1. Test data.
+	 	2. Test environment readiness.
+	 4. Once Env preparation is done then we will do "Test Execution".
+	 	1. Test execution across different combinations and Test environments.
+	 	2. Log issues(Detecting issues).
+	 5. Once Test Execution is done then we will do "Bug triaging/prioritizing".
+	 	1. meeting to Triage/prioriting the bugs with different stack holders based exit criteria.
+	 6. Once Bug triaging/prioritizing is done then we will do "Test closure".
+	 	1. Final closur and sign off.
+	 */
+
+}

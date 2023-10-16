@@ -1,0 +1,13 @@
+package a5UAT_entry_and_exit_criteria;
+
+public class sample {
+	
+	/*
+	 
+	 "UAT entry and exit criteria" or "UAT entrance criteria" or "UAT entry checklist"
+	 1. To perform UAT testing bussiness requirements should be clear, by this requirements some have
+	    developed(Unit & Integration & System testing) the applications already and is completed.
+	 
+	 */
+
+}

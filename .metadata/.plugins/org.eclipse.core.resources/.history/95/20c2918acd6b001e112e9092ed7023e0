@@ -1,0 +1,17 @@
+package a2UAT_best_practices_and_process_involved_in_agile_projects;
+
+public class sample {
+	
+	/*
+	 UAT best practices and process involved in agile projects
+	 1. Identifying the user this is 1st thing we do as part of UAT.
+	 2. Once the users are identified then we do "Test preparation/designs".
+	 	1. Test planning.
+	 	2. Requirements understanding/clarification.
+	 	3. Develop test cases/scenarios.
+	 3. Once Test pre/design is done then we will do "Env preparation".
+	 	1. Test data.
+	 	2. Test environment readiness.
+	 */
+
+}

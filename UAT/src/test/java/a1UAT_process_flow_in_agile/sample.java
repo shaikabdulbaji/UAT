@@ -1,0 +1,29 @@
+package a1UAT_process_flow_in_agile;
+
+public class sample {
+	
+	/*
+	 
+	 UAT flow in agile process
+	 1. In any process "product backlog" is common, it was prepared or developed by product owner by 
+	    discussing with customer or client.
+	 2. Then there will be a sprint planning activity is happen with scrum master and developers.
+	 3. Then sprint backlog is created, then this sprint backlog is used in every sprint to work on by
+	    developers and testers.
+	 4. Once sprint backlog is done tat where developers will pick the user story to start implementing 
+	    it or developing it.
+	 5. While the story is developing and testing both are going on parallely the the team will feel that
+	    it have the scop to potential release of a given user story that is the time UAT testing will 
+	    happen for the feature which is planning to shift for potential release.
+	 6. Here UAT(Customers/End users) testing will happen in this there are 
+	    1. Test initialization.
+	    2. Test design.
+	    3. Test execcution.
+	    4. Test closure.
+	 7. After completing this UAT testing the UAT team willshare the feedback to team(dev+qa). 
+	 8. That feedback is reviewd by some stackholders, if the feedback is good it is okay. It was not 
+	    good then the requirements will again place with some changes in product backlog.
+	    
+	 */
+
+}
